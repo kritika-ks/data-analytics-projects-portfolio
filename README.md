@@ -2,7 +2,7 @@
 
 This repository contains few of my data analytics projects:
 
-#### 1. Enhancing Cyclistic Subscriptions: Converting Casual Riders to Annual Members through Data-Driven Insights: <br>
+#### 1. Subscription Enhancement of a Bike Share Company: Converting Casual Riders to Annual Members through Data-Driven Insights: <br>
 Tools used: SQL, Tableau & Google Slides <br>
 In the Google Data Analytics Capstone project, I focused on increasing subscriptions for Cyclistic, a bike share company, by converting casual riders to annual memberships. My analysis identified key usage patterns and preferences among casual riders, providing actionable insights for targeted marketing strategies aimed at enhancing subscription rates.
 
