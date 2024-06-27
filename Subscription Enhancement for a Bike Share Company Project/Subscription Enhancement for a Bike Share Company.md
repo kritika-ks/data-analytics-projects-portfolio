@@ -1,5 +1,5 @@
 ### Subscription Enhancement for a Bike Share Company: Converting Casual Riders to Annual Members through Data-Driven Insights
-A comprehensive PDF report detailing the project's goals, objectives, data sources, methodology, analysis, insights, and recommendations can be found within the Cyclistic Data Analysis folder, along with this markdown file. <br>
+A comprehensive PDF report detailing the project's goals, objectives, data sources, methodology, analysis, insights, and recommendations can be found within this folder, along with this markdown file. <br>
 <br>
 Tools used: SQL, Tableau & Google Slides <br>
 <br>
