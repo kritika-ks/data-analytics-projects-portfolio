@@ -7,10 +7,10 @@ Tools used: SQL, Tableau & Google Slides <br>
 <br>
 In the Google Data Analytics Capstone project, I focused on increasing subscriptions for Cyclistic, a bike share company, by converting casual riders to annual memberships. My analysis identified key usage patterns and preferences among casual riders, providing actionable insights for targeted marketing strategies aimed at enhancing subscription rates.
 
-#### 2. Customer Profiling and Targeting: Analyzing Sales Data for Enhanced Market Insights in Manufacturing: <br>
+#### 2. Customer Profiling and Targeting: Analyzing Sales Data for Enhanced Market Insights in Retail: <br>
 Tools used: Python <br>
 <br>
-In this project, I leveraged past sales data to help a manufacturing company identify potential customers. By analyzing various variables including gender, age, marital status, state, product category, and product ID, I developed insights to better understand customer profiles and target future marketing efforts effectively.
+In this project, I leveraged past sales data to help a retail company identify potential customers. By analyzing various variables including gender, age, marital status, state, product category, and product ID, I developed insights to better understand customer profiles and target future marketing efforts effectively.
 
 #### 3. Identifying and Mitigating Key Drivers of Hotel Booking Cancellations: A Data-Driven Approach: <br>
 Tools used: Python <br>
